@@ -2,7 +2,7 @@
 
 ![Ride](Images/Ride.png)
 
-This project deals with the data of a hypothetical ride sharing company calles "Pyber". The data contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+This project deals with the data of a hypothetical ride sharing company called "Pyber". The data contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 The objective is to build a Bubble Plot that showcases the relationship between four key variables:
 

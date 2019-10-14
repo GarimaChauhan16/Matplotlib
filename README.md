@@ -26,7 +26,7 @@ Observable Trends:
 
  2.	The pie plots show that large proportion of total fare (62.7 %) comes from the urban cities where number of rides taken (68.4%) and the number of drivers (80.9%) is also maximum.
  
-             ![Ride](Pyber/Images/Total_Fare.png) 
+ ![Ride](Pyber/Images/Total_Fare.png) 
              ![Ride](Pyber/Images/Total_Rides.png)   
              ![Ride](Pyber/Images/Total_Drivers.png)
    

@@ -26,6 +26,8 @@ Observable Trends:
 
  2.	The pie plots show that large proportion of total fare (62.7 %) comes from the urban cities where number of rides taken (68.4%) and the number of drivers (80.9%) is also maximum.
  
- ![Ride](Pyber/Images/Total_Fare.png)  ![Ride](Pyber/Images/Total_Rides.png)   ![Ride](Pyber/Images/Total_Drivers.png)
+             ![Ride](Pyber/Images/Total_Fare.png) 
+             ![Ride](Pyber/Images/Total_Rides.png)   
+             ![Ride](Pyber/Images/Total_Drivers.png)
    
 3.	There are opportunities in the suburban and rural cities to expand the number of drivers as it is evident from the pie charts that the total number of drivers in suburban and rural cities is only 19% of total drivers, whereas the fare is approx. 37% of the total fare, which makes it evident that there is a high demand of drivers in those cities.
